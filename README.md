@@ -9,6 +9,9 @@ Oyunu daha yetkin hissettiğimiz Unity Oyun motorunda tasarladık URP kullanarak
 Oyunumuzun Tanıtım videosu:
 - https://www.linkedin.com/posts/ahmet-mert-kalaman-56a579266_herkese-merhaba-ge%C3%A7ti%C4%9Fimiz-hafta-bug-activity-7230505108776603650-HwUa?utm_source=share&utm_medium=member_desktop
 
+Oyunda Kullanılan Gas Station Asset:
+- https://assetstore.unity.com/packages/3d/environments/countryside-gas-station-132485
+
 ![Screenshot_4](https://github.com/user-attachments/assets/562bf71a-11d9-4d5f-a326-72fba1f3bd89)
 
 ![Screenshot_3](https://github.com/user-attachments/assets/a39cad9c-3ac5-409d-8172-849e28f72147)
