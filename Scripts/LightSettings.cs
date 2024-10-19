@@ -37,7 +37,6 @@ public class LightSettings : MonoBehaviour
             dolapanim.SetTrigger("Open");
         }
 
-        
         if (Input.GetKeyDown(KeyCode.Q))
         {
             vfx.Play();
